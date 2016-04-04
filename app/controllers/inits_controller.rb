@@ -1,0 +1,2 @@
+class InitsController < ApplicationController
+end
